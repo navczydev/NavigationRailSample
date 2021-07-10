@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationRailSample</string>
+    <string name="alarms_destination_label">Alarms</string>
+    <string name="schedule_destination_label">Schedules</string>
+    <string name="timer_destination_label">Timer</string>
+    <string name="stopwatch_destination_label">Stop Watch</string>
+    <string name="add_item">Add item</string>
+    <string name="bottom_nav_label">Use Bottom Nav</string>
+    <string name="nav_rail_label">Use NavRail</string>
+</resources>
